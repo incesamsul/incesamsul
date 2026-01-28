@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ince Samsul</h1>
-<h3 align="center">Solo Founder · Software Engineer · AI x Product Builder</h3>
+<h3 align="center"> Software Engineer · AI x Product Builder</h3>
 
-- 🔭 I’m currently working on some type of secret 
+- 🔭 I’m currently working on some Ai Tools named S
 
 - 🌱 I’m currently learning **SEO and meta ads, some marketing shi**
 
