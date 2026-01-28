@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ince Samsul</h1>
 <h3 align="center">Solo Founder · Software Engineer · AI x Product Builder</h3>
 
-- 🔭 I’m currently working on [Skripsita – AI Copilot for Skripsi](https://skripsita.com/)
+- 🔭 I’m currently working on some type of secret 
 
 - 🌱 I’m currently learning **SEO and meta ads, some marketing shi**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://incesamsul.github.io/](https://incesamsul.github.io/)
 
-- 📝 I regularly write articles on [https://www.threads.com/@codedbysam](https://www.threads.com/@codedbysam)
+- 📝 I regularly write articles on my threads
 
 - 💬 Ask me about **Bun Express, Next Js, Vue, React, MVP speedrun, AI for students**
 
